@@ -3,3 +3,4 @@
 개발자 목록
 1. mj-main
 2. mj-sub
+3. others
